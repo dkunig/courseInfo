@@ -1,0 +1,1 @@
+[{"Id": "ab-cd_efg1","Code": "","Name": "My Test Course Name","Active": false,"ForSale": false,"OriginalId": 123456,"Description": "Here is a test description","EcommerceShortDescription": "","EcommerceLongDescription": "","CourseCodeForBulkImport": "1990036-A","Price": 0,"AccessTillDate": null,"AccessTillDays": null,"CourseTeamLibrary":false,"Languages":""}]
